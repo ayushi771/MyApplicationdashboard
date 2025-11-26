@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="imageView" type="id" />
+    <item name="container" type="id" />
+    <item name="fullName" type="id" />
+    <item name="confirmPassword" type="id" />
+    <item name="registerButton" type="id" />
+    <item name="backToLoginButton" type="id" />
+    <item name="btnEnglish" type="id" />
+    <item name="btnHindi" type="id" />
+    <item name="btnGujarati" type="id" />
+    <item name="subjectText" type="id" />
+    <item name="presentText" type="id" />
+    <item name="absentText" type="id" />
+    <item name="percentageText" type="id" />
+    <item name="recyclerViewCourses" type="id" />
+</resources>

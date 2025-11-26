@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myapplicationdashboard">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/img"
+        android:roundIcon="@drawable/img"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplicationDashboard"
+        tools:targetApi="31">
+
+        <!-- Launcher activity (LoginActivity) -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:label="@string/login"> <!-- uses localized string -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- RegisterActivity -->
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="true"
+            android:label="@string/register" />
+
+        <!-- DashboardActivity -->
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="true"
+            android:label="@string/app_name" />
+
+        <!-- Other Activities (optional: add labels if shown in action bar) -->
+        <activity android:name=".CoursesActivity" />
+        <activity android:name=".AttendanceActivity" />
+        <activity android:name=".FeesActivity" />
+        <activity android:name=".AssignmentsActivity" />
+        <activity android:name=".EventsActivity" />
+        <activity android:name=".TimetableActivity" />
+        <activity android:name=".CircularsActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".ComputerScienceActivity" />
+        <activity android:name=".MathematicsActivity" />
+        <activity android:name=".NotificationSettingsActivity" />
+
+
+
+
+    </application>
+</manifest>

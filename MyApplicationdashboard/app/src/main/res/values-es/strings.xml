@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="enter_email">Introduce el correo electrónico</string>
+    <string name="enter_password">Introduce la contraseña</string>
+    <string name="not_registered">¿No estás registrado? Haz clic aquí</string>
+    <string name="register">Registrarse</string>
+    <string name="full_name">Introduce el nombre completo</string>
+    <string name="confirm_password">Confirma la contraseña</string>
+    <string name="back_to_login">Volver al inicio de sesión</string>
+    <string name="user_not_found">Usuario no encontrado. Por favor, regístrate primero.</string>
+</resources>
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="languages">
+        <item>English</item>
+        <item>हिन्दी</item>
+        <item>ગુજરાતી</item>
+        <item>Español</item>
+    </string-array>
+    <color name="bb86fc">#BB86FC</color>
+    <color name="black">#000000</color>
+    <color name="orange">#FFA000</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="red">#D32F2F</color>
+    <color name="teal">#009688</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <item name="absentText" type="id"/>
+    <item name="backToLoginButton" type="id"/>
+    <item name="btnEnglish" type="id"/>
+    <item name="btnGujarati" type="id"/>
+    <item name="btnHindi" type="id"/>
+    <item name="confirmPassword" type="id"/>
+    <item name="container" type="id"/>
+    <item name="fullName" type="id"/>
+    <item name="imageView" type="id"/>
+    <item name="percentageText" type="id"/>
+    <item name="presentText" type="id"/>
+    <item name="recyclerViewCourses" type="id"/>
+    <item name="registerButton" type="id"/>
+    <item name="subjectText" type="id"/>
+    <item name="textView" type="id"/>
+    <string name="app_name">My Application</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_exists">Email already exists</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="error_fill_fields" translatable="false"/>
+    <string name="error_password_mismatch"/>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="full_name">Enter Full Name</string>
+    <string name="invalid_credentials"/>
+    <string name="login">Login</string>
+    <string name="login_success"/>
+    <string name="logout">Logout</string>
+    <string name="not_registered">Not registered? Click here</string>
+    <string name="password_mismatch">Passwords do not match</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="register">Register</string>
+    <string name="registration_success">Registration successful!</string>
+    <string name="settings">Settings</string>
+    <string name="user_not_found">User not found. Please register first.</string>
+    <style name="Theme.MyApplicationDashboard" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@android:color/transparent</item>
+
+    </style>
+</resources>

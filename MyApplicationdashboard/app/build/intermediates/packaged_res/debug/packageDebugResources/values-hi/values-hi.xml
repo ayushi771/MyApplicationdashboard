@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मेरा एप्लिकेशन</string>
+    <string name="back_to_login">लॉगिन पर वापस जाएं</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="enter_email">ईमेल दर्ज करें</string>
+    <string name="enter_password">पासवर्ड दर्ज करें</string>
+    <string name="full_name">पूरा नाम दर्ज करें</string>
+    <string name="login">लॉगिन</string>
+    <string name="not_registered">पंजीकृत नहीं हैं? यहां क्लिक करें</string>
+    <string name="register">पंजीकरण करें</string>
+    <string name="user_not_found">उपयोगकर्ता नहीं मिला। कृपया पहले पंजीकरण करें।</string>
+</resources>

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_circulars.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_circulars.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_9.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_19.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_19.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_11.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_logo_splash.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\logo_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_data_science.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_data_science.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_22.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_22.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_8.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_mathematics_detail.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_mathematics_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_18.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_12.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_item_dashboard.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\item_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_assignments.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_assignments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_15.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_events.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplicationdashboard.app-debug-31:/layout_activity_computer_science_detail.xml.flat",
+        "source": "com.example.myapplicationdashboard.app-main-33:/layout/activity_computer_science_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_17.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_17.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_language_selection.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_language_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_21.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_21.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_attendance.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_13.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_computer_science_detail.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_computer_science_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_item_course.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\item_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_14.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_item_attendance.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\item_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_fees.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_fees.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_notification_settings.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_notification_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_16.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_courses.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_activity_timetable.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\activity_timetable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_20.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_20.png"
+    },
+    {
+        "merged": "com.example.myapplicationdashboard.app-debug-31:/drawable_img_23.png.flat",
+        "source": "com.example.myapplicationdashboard.app-main-33:/drawable/img_23.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\layout_register.xml.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_10.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-debug-31:\\drawable_img_7.png.flat",
+        "source": "C:\\Users\\Ayushi\\.gradle\\daemon\\8.11.1\\com.example.myapplicationdashboard.app-main-33:\\drawable\\img_7.png"
+    }
+]
